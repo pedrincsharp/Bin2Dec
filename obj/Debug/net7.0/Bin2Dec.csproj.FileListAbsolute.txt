@@ -1,0 +1,15 @@
+C:\Users\joao_\source\repos\Bin2Dec\bin\Debug\net7.0\Bin2Dec.exe
+C:\Users\joao_\source\repos\Bin2Dec\bin\Debug\net7.0\Bin2Dec.deps.json
+C:\Users\joao_\source\repos\Bin2Dec\bin\Debug\net7.0\Bin2Dec.runtimeconfig.json
+C:\Users\joao_\source\repos\Bin2Dec\bin\Debug\net7.0\Bin2Dec.dll
+C:\Users\joao_\source\repos\Bin2Dec\bin\Debug\net7.0\Bin2Dec.pdb
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.csproj.AssemblyReference.cache
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.AssemblyInfoInputs.cache
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.AssemblyInfo.cs
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.dll
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\refint\Bin2Dec.dll
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.pdb
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\Bin2Dec.genruntimeconfig.cache
+C:\Users\joao_\source\repos\Bin2Dec\obj\Debug\net7.0\ref\Bin2Dec.dll
